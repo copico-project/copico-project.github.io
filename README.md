@@ -2,4 +2,4 @@
 
 ![slide](https://github.com/copico-project/copico-project.github.io/assets/12594889/9eda657b-8d8f-4d80-92b9-797193df81df)
 
-GitHub: https://github.com/thomasshanks/copico
+GitHub Repositiories: [github.com/thomasshanks/copico](https://github.com/thomasshanks/copico)
