@@ -4,16 +4,21 @@
   <img width="360" src="https://github.com/copico-project/copico-project.github.io/assets/12594889/726c1f5f-8639-4f95-b4bc-d80b4835354b" alt="CoPiCo logo">
 </p>
 
+## What is the CoPiCo?
+
 The CoPiCo is a cartridge for the Tandy Color Computer that adds WiFi to and serves as a boot ROM for the system.
 
 It is built around the official dev board for the RP2040 microcontroller, the Raspberry Pi Pico W, which includes onboard WiFi.
 
+## Site still under construction!
+
 This site is a work in progress. It will soon contain documentation and project updates.
+
+## GitHub Respositories
 
 You can find the KiCad source for the board and the source code for the microcontroller firmware in the following repos:
 - [github.com/thomasshanks/copico-board](https://github.com/thomasshanks/copico-board)
 - [github.com/thomasshanks/copico-firmware](https://github.com/thomasshanks/copico-firmware)
-
 
 ## Signage from Unveiling at the Vintage Computer Festival SoCal
 
