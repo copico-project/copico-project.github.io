@@ -41,6 +41,8 @@ Until we get a chance to create a better site, here's a look at the board and ou
 
 ![slide](https://github.com/copico-project/copico-project.github.io/assets/12594889/9eda657b-8d8f-4d80-92b9-797193df81df)
 
+## Board Rendering and Schematic
+
 ![copico_pcb_rev0 1_front](https://github.com/copico-project/copico-project.github.io/assets/12594889/0aa3bfe4-2129-4f73-a520-9b2466cd4f9c)
 
 ![copico_pcb_rev0 1_back](https://github.com/copico-project/copico-project.github.io/assets/12594889/a098ccb4-ed93-4c8d-b08d-daa03b462ec4)
