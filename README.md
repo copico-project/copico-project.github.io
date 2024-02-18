@@ -1,6 +1,8 @@
 # CoPiCo Project
 
-![CoPiCo-logo-1color-cropped](https://github.com/copico-project/copico-project.github.io/assets/12594889/726c1f5f-8639-4f95-b4bc-d80b4835354b)
+<p align="center">
+  <img width="360" src="https://github.com/copico-project/copico-project.github.io/assets/12594889/726c1f5f-8639-4f95-b4bc-d80b4835354b" alt="CoPiCo logo">
+</p>
 
 The CoPiCo is a cartridge for the Tandy Color Computer that adds WiFi to and serves as a boot ROM for the system.
 
